@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.2)*%
+%TF.CreationDate,2022-04-22T09:08:27+08:00*%
+%TF.ProjectId,usb-nvme,7573622d-6e76-46d6-952e-6b696361645f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.2)) date 2022-04-22 09:08:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X22000000Y0D02*
+X22000000Y-43500000D01*
+X22000000Y-43500000D02*
+X0Y-43500000D01*
+X0Y-43500000D02*
+X0Y0D01*
+X0Y0D02*
+X22000000Y0D01*
+M02*
